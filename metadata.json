@@ -1,0 +1,6 @@
+{
+  "name": "MedPoints - Medical Store Loyalty Program",
+  "description": "Simple, powerful loyalty points & WhatsApp rewards system designed specifically for medical stores and pharmacies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
